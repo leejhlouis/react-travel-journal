@@ -4,4 +4,4 @@
 Ziroll</a>'s <a href='https://scrimba.com/learn/learnreact'>Scrimba React course</a>. This site is
 built with React, Vite, and Tailwind CSS and deployed with GitHub Pages.
 
-[Live demo](https://leejhlouis.github.io/my-travel-journal/)
+[Live demo](https://leejhlouis.github.io/react-travel-journal/)
