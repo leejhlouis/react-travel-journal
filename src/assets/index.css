@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+nav {
+  background: #f55a5a;
+}
+
+.ri-map-pin-2-fill {
+  color: #f55a5a;
+}
